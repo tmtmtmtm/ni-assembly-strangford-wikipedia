@@ -1,0 +1,10 @@
+{
+  "wikipedia": "https://en.wikipedia.org/wiki/Strangford_(Assembly_constituency)",
+  "wikidata": [{
+    "id": "Q7621629",
+    "start": "1996",
+    "end": "9999"
+  }],
+  "combofile": "combo.csv",
+  "new_person_description": "Northern Irish election candidate"
+}
